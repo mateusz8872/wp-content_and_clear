@@ -1,0 +1,82 @@
+/* ==========================================================================
+*  Hester Customizer Preview styles.
+*  ========================================================================== */
+.customize-partial-edit-shortcut-blogname,
+.customize-partial-edit-shortcut-hester_footer_widgets_align_center,
+.customize-partial-edit-shortcut-hester_hero_hover_slider_post_number {
+  display: none !important;
+}
+
+.hester-hide-shortcuts .customize-partial-edit-shortcut {
+  display: none !important;
+}
+
+.customize-partial-edit-shortcut {
+  z-index: 999;
+}
+
+.customize-partial-edit-shortcut-hester_top_bar_widgets,
+.customize-partial-edit-shortcut-hester_enable_pre_footer_cta,
+.customize-partial-edit-shortcut-hester_header_widgets,
+.customize-partial-edit-shortcut-hester_copyright_widgets,
+.customize-partial-edit-shortcut-hester_hero_hover_slider_elements {
+  left: 50%;
+  top: 50%;
+}
+
+.customize-partial-edit-shortcut-hester_top_bar_widgets button,
+.customize-partial-edit-shortcut-hester_enable_pre_footer_cta button,
+.customize-partial-edit-shortcut-hester_header_widgets button,
+.customize-partial-edit-shortcut-hester_copyright_widgets button,
+.customize-partial-edit-shortcut-hester_hero_hover_slider_elements button {
+  left: -15px;
+  top: -15px;
+}
+
+.hester-social-nav .customize-partial-edit-shortcut {
+  top: 0;
+}
+
+.hester-social-nav .customize-partial-edit-shortcut button {
+  left: -20px;
+}
+
+.hester-primary-nav .customize-partial-edit-shortcut {
+  top: 12px;
+}
+
+.hester-primary-nav .customize-partial-edit-shortcut button {
+  left: -25px;
+}
+
+.hester-header-layout-3 .customize-partial-edit-shortcut-hester_header_layout {
+  left: 30px;
+}
+
+.customize-partial-edit-shortcut-hester_footer_layout {
+  top: 50%;
+  left: 35px;
+}
+.hester_home_section {
+  position: relative;
+}
+.hester_home_section::before{
+  transition: .3s ease;
+  z-index: 8;
+  position: absolute;
+  content: " ";
+  border: 2px dashed rgba(195,195,195,.5);
+  top: 20px;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  pointer-events: none;
+}
+.hester_home_section:hover::before{
+  border-color: #00a0d0;
+}
+.hester_home_section > .customize-partial-edit-shortcut {
+  left: 40px;
+  top: 8px;
+  z-index: 8;
+}

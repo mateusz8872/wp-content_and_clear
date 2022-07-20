@@ -1,0 +1,9 @@
+.control-section-hester-section-hiding .hester-toggle-section,.control-section-sidebar .hester-toggle-section{text-decoration:none;margin-right:5px;vertical-align:middle}.control-section-hester-section-hiding .hester-toggle-section .dashicons,.control-section-sidebar .hester-toggle-section .dashicons{font-size:16px;vertical-align:middle}.hester-section-visible .hester-toggle-section{color:#929292}#customize-theme-controls .accordion-section-title.hester-section-hidden,.hester-section-hidden .hester-toggle-section{color:#dcdcdc}.hester-toggle-section{float:left}#accordion-panel-hester_panel_homepage
+.accordion-section[id^="accordion-section-sidebar-widgets"]
+.accordion-section-title.ui-sortable-handle:before,#accordion-panel-hester_panel_homepage
+.accordion-section[id^="accordion-section-hester"]
+.accordion-section-title.ui-sortable-handle:before,#sub-accordion-panel-hester_panel_homepage
+.accordion-section[id^="accordion-section-sidebar-widgets"]
+.accordion-section-title.ui-sortable-handle:before,#sub-accordion-panel-hester_panel_homepage
+.accordion-section[id^="accordion-section-hester"]
+.accordion-section-title.ui-sortable-handle:before{content:"\f545";font-family:dashicons;margin-right:10px;cursor:move}.ui-state-highlight{border:1px dashed;width:90%;height:44px}#accordion-panel-hester_panel_homepage .accordion-section.ui-sortable-helper,#sub-accordion-panel-hester_panel_homepage .accordion-section.ui-sortable-helper{box-shadow:0 0 30px -2px rgba(0,0,0,0.46)}.hester-toggle-section{float:right}

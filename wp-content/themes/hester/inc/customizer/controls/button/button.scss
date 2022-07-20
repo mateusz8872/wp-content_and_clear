@@ -1,0 +1,23 @@
+/*****************************************/
+/* Customizer button control style
+/*****************************************/
+
+.hester-button-wrapper {
+	display: flex;
+	align-items: center;
+	margin-bottom: 4px;
+
+	.hester-control-heading {
+		margin-right: auto;
+	}
+
+	.button {
+		padding-left: 10px;
+		box-sizing: border-box;
+		align-items: center;
+	}
+
+	.customize-control-title {
+		margin-bottom: 0;
+	}
+}

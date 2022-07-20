@@ -1,0 +1,37 @@
+= 1.0.8 =
+* style issue fixed
+
+= 1.0.7 =
+* sidebar & footer widget title style issue fixed
+* Screenshot updated
+* remove unnecessary code
+
+= 1.0.6 =
+* wpform global unnecessary css removed
+* remove unnecessary code
+
+= 1.0.5 =
+* wpform & block plugin support css
+* TSP header link & widget focus color set.
+* TSP header cart widget item title link color set.
+
+= 1.0.4 =
+* Typography heading em font family set.
+* Typography max font-size increase to 10 rem.
+* Screenshot updated.
+
+= 1.0.3 = 
+* Mobile mode breadcrumb padding issue fixed.
+* Mobile mode navigation overlay bg color set.
+* Mobile Mode navigation overlay z-index issue fixed.
+* shortcut edit pencil z-index issue fixed.
+
+= 1.0.2 =
+* Keyboard navigation is not working properly in mobile menu(in case of submenu). FIXED!
+* Underline link requirement is missing. FIXED!
+
+= 1.0.1 =
+* Two text-domain being used. FIXED!
+
+= 1.0.0 =
+* Initial release 🚀

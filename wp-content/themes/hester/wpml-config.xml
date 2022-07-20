@@ -1,0 +1,19 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_hester">
+            <key name="hester_main_nav_mobile_label" />
+            <key name="hester_excerpt_more" />
+            <key name="hester_pre_footer_cta_text" />
+            <key name="hester_pre_footer_cta_btn_text" />
+            <key name="hester_header_widgets">
+                <key name="*" />
+            </key>
+            <key name="hester_copyright_widgets" >
+                <key name="*" />
+            </key>
+            <key name='custom_logo' />
+            <key name='hester_logo_default_retina' />
+            <key name='blogname' />
+        </key>
+    </admin-texts>   
+</wpml-config>

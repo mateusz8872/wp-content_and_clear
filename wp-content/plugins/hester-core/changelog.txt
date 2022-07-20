@@ -1,0 +1,17 @@
+= 1.0.4 =
+* Language file update.
+
+= 1.0.3 =
+* Added home section order default value.
+
+= 1.0.2 =
+* Header layout default value change.
+* Slider default value change.
+* Slider style setting added.
+* Tablet mode info section top spacing set.
+
+= 1.0.1 =
+* New demo category added
+
+= 1.0.0 =
+* Initial release 🚀
